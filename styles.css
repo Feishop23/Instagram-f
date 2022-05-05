@@ -1,0 +1,212 @@
+.fondo{
+    background-color: rgb(255, 255, 255);
+    width: 470px;
+    height: 736px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.224);
+}
+.uno{
+    background-color: rgba(236, 71, 71, 0);
+    width: 100%;
+    height: 47px;
+    display: flex;
+    position: relative;
+    box-shadow: 0px 3px 9px -5px rgba(0, 0, 0, 0.224);
+    
+    
+    
+}
+.dos{
+    background-color: rgba(98, 236, 71, 0);
+    width: 100%;
+    height: 31%;
+    position: relative;
+    top: 63%;
+    box-shadow: 0px -5px 8px -7px rgba(0, 0, 0, 0.224);
+    
+}
+.foto img{
+    position: relative;
+    bottom: 469px;
+    width: 300px;
+    height: 300px;
+}
+.uno img{
+height: 32px;
+width: 32px;
+border-radius: 50%;
+position: relative;
+top: 4px;
+left: 7px;
+border-color: #2D7DD2;
+    border-width: 3px;
+    border-style: inset;
+}
+.uno h1{
+    position: relative;
+    display: inline;
+    top: 15%;
+    left: 03%;
+    font-size: 15px;
+    font-weight: 100;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+ .punto1{
+     top: 25px;
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+    left: 64%;
+
+}
+ .punto2{
+     top: 25px;
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+    left: 65%;
+
+}
+ .punto3{
+     top: 25px;
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    width: 3px;
+    height: 3px;
+    left: 66%;
+    border-radius: 50%;
+
+}
+.mini1 img{
+    position: relative;
+    top: 10px;
+    left: 3.4%;
+    height: 26px;
+background-color: rgba(0, 255, 255, 0);
+}
+.mini2 img{
+    position: relative;
+    bottom: 20px;
+    margin-left: 10px;
+    height: 26px;
+    left: 9%;
+    transform: scaleX(-1);
+    background-color: rgba(0, 255, 255, 0);
+}
+.mini3 img{
+    position: relative;
+    bottom: 50px;
+    margin-left: 10px;
+    height: 26px;
+    left: 16.7%;
+    background-color: rgba(0, 255, 255, 0);
+}
+.mini4 img{
+    position: relative;
+    bottom: 79px;
+    margin-left: 10px;
+    height: 26px;
+    left: 88.5%;
+    background-color: rgba(0, 255, 255, 0);
+}
+
+   
+.texto .img1 img{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border-width: 2.3px;
+    border-color: white;
+    border-style: solid;
+    position: relative;
+    top: 182px;
+    z-index: 3;
+    left: 3%;
+}
+.texto .img2 img{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border-width: 2.3px;
+    border-color: rgb(255, 255, 255);
+    border-style:solid;
+    position: relative;
+    top: 154px;
+    left: 6%;
+    z-index: 2;
+
+}
+
+
+.contexto p {
+    position: relative;
+    top: 114px;
+    left: 55px;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.masTexto{
+    position: relative;
+    top: 283px;
+    font-size: 12px;
+    left: 19px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.495);
+}
+.base{
+    position: relative;
+    top: 40px;
+    width: 100%;
+    height: 50px;
+    box-shadow: 0px -4px 8px -6px rgba(0, 0, 0, 0.224);
+}
+.base .minimi5{
+    position: relative;
+bottom: 22px;
+    left: 16px;
+    
+}
+.base .minimi5 img{
+    height: 24px;
+    width: 24px;
+}
+
+.base .comentario p{
+    position: relative;
+    left: 55px;
+    top: 16px;
+    color: rgba(0, 0, 0, 0.498);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Publicar{
+position: relative;
+left: 82%;
+bottom: 9px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 16px;
+font-weight: 600;
+color: aqua;
+}
+
+
+.texto{
+    position: relative;
+    top: 100px;
+}
+.Juan{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    position: relative;
+    top: 188px;
+    left: 18px;
+}
+.simplee{
+    color: rgba(0, 0, 0, 0.582);
+}
